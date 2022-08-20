@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/45071341/130478494-21f091d1-f61e-4f35-b16f-e2b0763f7e04.gif)]
+![MasterHead](https://user-images.githubusercontent.com/45071341/130478494-21f091d1-f61e-4f35-b16f-e2b0763f7e04.gif)
 <h1 align="center">Hi 👋, I'm Gaurav Kumar Thakur</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/5c/8f/08/5c8f08b5fe55e12baae6fc54e46c343a.gif">
